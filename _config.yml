@@ -1,7 +1,7 @@
 # main text of home
 name: Abhishek Sarkar
-bio: On Design, Architecture, Ruby, Ruby On Rails, JavaScript, Node.js, AngularJS and more...
-description: On Design, Architecture, Ruby, Ruby On Rails, JavaScript, Node.js, AngularJS and more...
+bio: On Software Design, Architecture, Ruby, Ruby On Rails, JavaScript, Node.js, AngularJS and more...
+description: On Software Design, Architecture, Ruby, Ruby On Rails, JavaScript, Node.js, AngularJS and more...
 
 # if it's an external image, update below for true
 # better with square images
@@ -36,7 +36,7 @@ email: abhisheksarka@gmail.com
 authors:
     abhisheksarka:
         name: Abhishek Sarkar
-        bio: "On Design, Architecture, Ruby, Ruby On Rails, JavaScript, Node.js, AngularJS and more..."
+        bio: "On Software Design, Architecture, Ruby, Ruby On Rails, JavaScript, Node.js, AngularJS and more..."
         external-image: false
         picture: assets/images/profile.jpg
         twitter: abhisheksarka
