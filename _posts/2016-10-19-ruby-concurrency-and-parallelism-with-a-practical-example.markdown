@@ -5,7 +5,7 @@ description: "Concurrency and Parallelism are not the same thing. Understand how
 share: true
 comments: true
 disqus: true
-show_author: true
+author: abhisheksarka
 modified: 2016-10-19
 blog: true
 tags: [Ruby, Rails, RubyThreading, Concurrency, Parallelism]

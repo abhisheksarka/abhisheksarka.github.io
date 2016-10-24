@@ -7,6 +7,7 @@ comments: true
 modified: 2014-07-22
 tags: [Ruby, Rails, Decorator Pattern, Design Patterns]
 blog: true
+author: abhisheksarka
 image:
   feature: abstract-10.jpg
   credit: dargadgetz

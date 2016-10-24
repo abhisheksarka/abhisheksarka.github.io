@@ -34,18 +34,13 @@ github: abhisheksarka
 email: abhisheksarka@gmail.com
 
 authors:
-    johndoe:
-        name: John Doe
-        bio: A Man who travels the world eating noodles
+    abhisheksarka:
+        name: Abhishek Sarkar
+        bio: "On Design, Architecture, Ruby, Ruby On Rails, JavaScript, Node.js, AngularJS and more..."
         external-image: false
         picture: assets/images/profile.jpg
-        twitter: johndoe
-    jamesfoster:
-        name: James Foster
-        bio: A Man who develops software with coffee
-        external-image: false
-        picture: assets/images/james.jpg
-        twitter: jamesfoster
+        twitter: abhisheksarka
+        facebook: abhisheksarka08
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal

@@ -7,6 +7,7 @@ comments: true
 modified: 2014-07-22
 blog: true
 tags: [AngularJS, IE9, Internet Explorer 9, Ruby on Rails]
+author: abhisheksarka
 image:
   feature: abstract-12.jpg
 ---
