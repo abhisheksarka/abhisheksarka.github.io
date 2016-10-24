@@ -4,6 +4,7 @@ title: Ruby Decorators
 description: "While inheritance is one form of extension it is not always the best way to achieve flexibility in our designs. In certain cases you might want to add a number of different responsibilities to a base class."
 share: true
 comments: true
+disqus: true
 modified: 2014-07-22
 tags: [Ruby, Rails, Decorator Pattern, Design Patterns]
 blog: true

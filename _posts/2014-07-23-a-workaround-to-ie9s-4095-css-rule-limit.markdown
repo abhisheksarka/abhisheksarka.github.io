@@ -4,6 +4,7 @@ title: A workaround to IE 9's 4095 CSS rule limit
 description: "As it turns out IE9 has a limitation of 4095 selectors per CSS file. Selectors beyond that will be simply ignored."
 share: true
 comments: true
+disqus: true
 modified: 2014-07-22
 blog: true
 tags: [AngularJS, IE9, Internet Explorer 9, Ruby on Rails]
