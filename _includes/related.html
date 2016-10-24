@@ -15,6 +15,9 @@
                             (Series: {{ post.series }})
                         {% endif %}
                         </a>
+                        <p>
+                          <small>{{post.description}}</small>
+                        </p>
                     </li>
                     {% capture hasSimilar %}{{ hasSimilar }}*{% endcapture %}
                     {% assign postHasSimilar = true %}
